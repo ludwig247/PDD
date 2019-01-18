@@ -1,3 +1,6 @@
 [submodule "SCAM"]
 	path = SCAM
 	url = https://github.com/ludwig247/SCAM
+[submodule "LowPower"]
+	path = LowPower
+	url = https://github.com/shriud/LowPower/tree/master
