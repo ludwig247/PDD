@@ -5,4 +5,4 @@ The methodology starts from an abstract, transaction-level, hardware description
 
 We present:
 - The open-source software tool *SCAM* supporting PDD. The repository contains the source code for SCAM and various examples (e.g.,  a RISC-V processor). 
-- What ever you want to write about LowPower
+- In the *LowPower* repository, using two designs and their auxilliary files, we demonstrate a power optimization methodology based on formal properties.
